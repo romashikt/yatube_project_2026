@@ -5,9 +5,12 @@
 ### Заголовок3
 #### Заголовок4
 ##### Заголовок5
+- `python manage.py runserver`
+- requirements.txt
+
 **Git** 
 *Hub* 
-`python manage.py runserver`
+
 1. GitBash
 2. YA
 ---
